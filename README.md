@@ -9,11 +9,11 @@ Conteúdos fundamentaiss para aprender a lógica de programação que será apre
 - [x] Comentário
 - [x] Variáveis (const, let)
 - [x] Tipos de dados
+- [x] Estruturas de Dados
+- [x] Função
 - [ ] Operadores
-- [ ] Estruturas de Dados
 - [ ] Controle (IF/ELSE)
 - [ ] Loop (for/while)
-- [ ] Função
 
 ## Tipos de dados
 
